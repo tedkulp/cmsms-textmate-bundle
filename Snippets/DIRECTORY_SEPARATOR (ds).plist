@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>DIRECTORY_SEPARATOR</string>
+	<key>name</key>
+	<string>DIRECTORY_SEPARATOR (ds)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ds</string>
+	<key>uuid</key>
+	<string>0F4DA06F-5F1F-4335-821A-17E85D8C69F5</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>CMSMS</string>
+	<key>ordering</key>
+	<array>
+		<string>D70B6B2E-021A-4617-A770-03ED37A9AAD3</string>
+		<string>A0D59F21-A233-40B9-8CC4-F6AB43F7B0CB</string>
+		<string>0F4DA06F-5F1F-4335-821A-17E85D8C69F5</string>
+		<string>A45C005E-1ABA-4CD0-8D8A-EE9A5095173A</string>
+		<string>0DFDA7A8-914A-4A51-A3C5-7F3D962377F5</string>
+		<string>D8B3D628-B40C-48FB-B0EB-7D8C59E5821E</string>
+		<string>B754CF1A-3959-4497-BE14-6D2B9C0996C0</string>
+		<string>44474792-D41E-44AD-828F-4362830A7B8E</string>
+		<string>739BC1BA-403A-4BD2-8D77-761B8A823244</string>
+		<string>5440B5E0-5297-4838-A01E-5D2FB2958A0E</string>
+		<string>299A3A69-3E62-4733-9144-E5DBECED4015</string>
+		<string>A7082E61-0EE2-4D58-94F7-6BC0531C474A</string>
+		<string>594606B9-E0FB-42B6-A2B4-ADB78DB76472</string>
+		<string>B7816064-B751-4B33-AF5D-0B1576DE486F</string>
+		<string>A082AF27-3D66-4E30-8E50-E983DE953D36</string>
+	</array>
+	<key>uuid</key>
+	<string>79EF7883-EDE6-4D02-8F03-6B6147C3CA51</string>
+</dict>
+</plist>

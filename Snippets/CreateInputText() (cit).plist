@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;CreateInputText(\$id, ${1:'name'}, ${2:'value'}, ${3:'10'}, ${4:'255'}, ${5:''})$0</string>
+	<key>name</key>
+	<string>CreateInputText() (cit)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cit</string>
+	<key>uuid</key>
+	<string>0DFDA7A8-914A-4A51-A3C5-7F3D962377F5</string>
+</dict>
+</plist>

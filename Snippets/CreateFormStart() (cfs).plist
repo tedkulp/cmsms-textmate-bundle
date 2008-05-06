@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;CreateFormStart(\$id, ${1:'default'}, ${2:\$returnid}, ${3:'post'}, ${4:''}, ${5:false}, ${6:''}, ${7:array()})$0</string>
+	<key>name</key>
+	<string>CreateFormStart() (cfs)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cfs</string>
+	<key>uuid</key>
+	<string>A45C005E-1ABA-4CD0-8D8A-EE9A5095173A</string>
+</dict>
+</plist>

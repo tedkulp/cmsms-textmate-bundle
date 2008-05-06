@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>	&lt;language&gt;
+		&lt;code&gt;$1&lt;/code&gt;
+		&lt;native_name&gt;$2&lt;/native_name&gt;
+		&lt;english_name&gt;$3&lt;/english_name&gt;
+		&lt;aliases&gt;
+			&lt;alias&gt;$4&lt;/alias&gt;$0
+		&lt;/aliases&gt;
+		&lt;flag_image&gt;${1}.png&lt;/flag_image&gt;
+	&lt;/language&gt;</string>
+	<key>name</key>
+	<string>language definition</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>lang</string>
+	<key>uuid</key>
+	<string>B7816064-B751-4B33-AF5D-0B1576DE486F</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>'.cms_db_prefix().'</string>
+	<key>keyEquivalent</key>
+	<string>^C</string>
+	<key>name</key>
+	<string>cms_db_prefix()</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>uuid</key>
+	<string>A0D59F21-A233-40B9-8CC4-F6AB43F7B0CB</string>
+</dict>
+</plist>
